@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(54, 7, 7);
+    text-shadow: -1px 10px 20px #000;
+margin: 50px ;
+color: red;
+
+}
+h1{
+    color: aqua;
+    text-shadow: -1px 2px 3px red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+i{
+    color: blueviolet;
+    text-shadow: 1px 10px 10px #000;
+}
+
+h2{
+    color: beige;
+    text-shadow: 1px 10px 10px #000;
+}
+em{
+    color: chartreuse;
+    text-shadow: -1px 10px 10px #0000;
+
+}
